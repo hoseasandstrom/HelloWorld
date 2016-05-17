@@ -9,6 +9,7 @@ public class Product {
     double msrp;
     Inventory onHand;
     Inventory onOrder;
+    boolean isNewName;
     Product[] newProduct = new Product[allProducts];
 
     public Product(String productName, Vendor companyName, Vendor ourCost, double msrp, Inventory onHand, Inventory onOrder) {
