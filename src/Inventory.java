@@ -16,6 +16,6 @@ public class Inventory {
         return onHand;
     }
     public void setOnHand(int newOnHand) {
-        onHand = newOnHand;
+        this.onHand = newOnHand;
     }
 }

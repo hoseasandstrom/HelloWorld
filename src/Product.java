@@ -37,7 +37,7 @@ public class Product {
     }
 
     public void setMSRP(double newMSRP) {
-        msrp = newMSRP;
+        this.msrp = newMSRP;
     }
 
     public static boolean isNewName(String newProductName) {

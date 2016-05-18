@@ -3,11 +3,11 @@
  */
 public class Retail {
     Product productName;
-    Product cost;
+    Vendor cost;
     Product msrp;
     Inventory onHand;
 
-   public Retail(Product productName, Product cost, Product msrp, Inventory onHand) {
+   public Retail(Product productName, Vendor cost, Product msrp, Inventory onHand) {
        this.productName = productName;
        this.cost = cost;
        this.msrp = msrp;

@@ -5,10 +5,10 @@ public class Wholesale {
     Product productName;
     double wsPrice;
     int orderQty;
-    boolean isValidQty;
-    boolean invalidQty;
+    int isValidQty;
+    int invalidQty;
 
-    public Wholesale(Product productName, double wsPrice, int orderQty,  boolean isValidQty) {
+    public Wholesale(Product productName, double wsPrice, int orderQty, int isValidQty) {
         this.productName = productName;
         this.wsPrice = wsPrice;
         this.orderQty = orderQty;
@@ -19,15 +19,15 @@ public class Wholesale {
     }
 
     public void setName(Product newProductName) {
-        productName = newProductName;
+        this.productName = newProductName;
     }
 
     public double getWsPrice() {
         return wsPrice;
     }
 
-    public void sertwsPrice(double newWSPrice) {
-        wsPrice = newWSPrice;
+    public void setWsPrice(double newWSPrice) {
+        this.wsPrice = newWSPrice;
     }
 
     public int getOrderQty() {
@@ -35,14 +35,15 @@ public class Wholesale {
     }
 
     public void setOrderQty(int newOrderQty) {
-        orderQty = newOrderQty;
+        this.orderQty = newOrderQty;
     }
 
-    public boolean getiIsValidQty() {
+    public int getiIsValidQty() {
         return isValidQty;
     }
 
-    public void setIsValidQty(boolean invalidQty) {
-        isValidQty = invalidQty;
+    public void setIsValidQty(int isValidQty) {
+        this.isValidQty = invalidQty;
     }
 }
+
