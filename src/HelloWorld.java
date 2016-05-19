@@ -3,7 +3,13 @@
  */
 public class HelloWorld {
     public static void main(String[] args) {
-        System.out.println("Hello, world!");
+        ArrayList names = new Arraylist();
+        names.add("Alice");
+        names.add("Bob");
+        names.add("Charlie");
+
+        String name = names.get(0)
+
     }
 
 }
