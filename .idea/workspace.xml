@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fbc81218-d680-4996-b52b-75699d8ad234" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Excercise01.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/HelloWorld/HelloWorld.class" afterPath="$PROJECT_DIR$/out/production/HelloWorld/HelloWorld.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/HelloWorld.java" afterPath="$PROJECT_DIR$/src/HelloWorld.java" />
     </list>
     <ignored path="HelloWorld.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -554,7 +552,14 @@
       <option name="project" value="LOCAL" />
       <updated>1463582146903</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Add exercises">
+      <created>1464013143781</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1464013143781</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TodoView" selected-index="1">
@@ -610,7 +615,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First import" />
     <MESSAGE value="Add contructors and methods" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add contructors and methods" />
+    <MESSAGE value="Add exercises" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add exercises" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
