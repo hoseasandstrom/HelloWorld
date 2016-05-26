@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fbc81218-d680-4996-b52b-75699d8ad234" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Exercise02.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/HelloWorld/Person.class" afterPath="$PROJECT_DIR$/out/production/HelloWorld/Person.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Email.java" afterPath="$PROJECT_DIR$/src/Email.java" />
     </list>
     <ignored path="HelloWorld.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -671,7 +669,14 @@
       <option name="project" value="LOCAL" />
       <updated>1464186907758</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Nested data">
+      <created>1464272620930</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1464272620930</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TodoView" selected-index="1">
@@ -729,7 +734,8 @@
     <MESSAGE value="Add contructors and methods" />
     <MESSAGE value="Add exercises" />
     <MESSAGE value="Add file i/o stuff" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add file i/o stuff" />
+    <MESSAGE value="Nested data" />
+    <option name="LAST_COMMIT_MESSAGE" value="Nested data" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
