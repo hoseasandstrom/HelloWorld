@@ -25,6 +25,17 @@ public class Email {
 
     }
 
+    @Override
+    public String toString() {
+        return "Email{" +
+                "author=" + author +
+                ", subject='" + subject + '\'' +
+                ", body='" + body + '\'' +
+                ", destination='" + destination + '\'' +
+                ", time=" + time +
+                '}';
+    }
+
     public Person getAuthor() {
         return author;
     }
