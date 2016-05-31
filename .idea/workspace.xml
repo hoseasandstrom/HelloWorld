@@ -4,7 +4,6 @@
     <list default="true" id="fbc81218-d680-4996-b52b-75699d8ad234" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/HelloWorld/Person.class" afterPath="$PROJECT_DIR$/out/production/HelloWorld/Person.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Person.java" afterPath="$PROJECT_DIR$/src/Person.java" />
     </list>
     <ignored path="HelloWorld.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -30,7 +29,7 @@
         <entry file="file://$PROJECT_DIR$/src/Person.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="227">
-              <caret line="64" column="8" selection-start-line="64" selection-start-column="8" selection-end-line="64" selection-end-column="8" />
+              <caret line="64" column="0" selection-start-line="64" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -743,7 +742,14 @@
       <option name="project" value="LOCAL" />
       <updated>1464272666948</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Implement Comparable">
+      <created>1464702629257</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1464702629257</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TodoView" selected-index="1">
@@ -802,7 +808,8 @@
     <MESSAGE value="Add exercises" />
     <MESSAGE value="Add file i/o stuff" />
     <MESSAGE value="Nested data" />
-    <option name="LAST_COMMIT_MESSAGE" value="Nested data" />
+    <MESSAGE value="Implement Comparable" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implement Comparable" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1008,7 +1015,7 @@
     <entry file="file://$PROJECT_DIR$/src/Person.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="227">
-          <caret line="64" column="8" selection-start-line="64" selection-start-column="8" selection-end-line="64" selection-end-column="8" />
+          <caret line="64" column="0" selection-start-line="64" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
           <folding />
         </state>
       </provider>
