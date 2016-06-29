@@ -28,6 +28,7 @@ public class Exercise07 {
 
         System.out.println(isPalindrome("racecar"));
         System.out.println(isPalindrome("hello"));
+        ;
     }
 
 }
